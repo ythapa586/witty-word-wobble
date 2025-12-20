@@ -1,0 +1,4 @@
+project_id = "llhyscxzqgoaxjchnket"
+
+[functions.dumbai-chat]
+verify_jwt = false
